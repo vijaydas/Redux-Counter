@@ -2,6 +2,7 @@
 
 ## Topics
 
+
 * Immutability in JavaScript
 * Redux
 * Actions
